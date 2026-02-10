@@ -1,9 +1,8 @@
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">I'M ENGINEERING STUDENT & WEB DEVELOPER</h3>
-<img align="right" alt="Coding"
-width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-x-19&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-x-19" /> </p>
+
+
 
 - 🔭 I’m currently working on **Web development**
 
