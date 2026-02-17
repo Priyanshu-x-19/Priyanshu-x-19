@@ -1,18 +1,18 @@
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">I'M ENGINEERING STUDENT & WEB DEVELOPER</h3>
+<h3 align="center">I'M ENGINEERING STUDENT & Data Analyst</h3>
 
 
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Data Analyst**
 
-- 🌱 I’m currently learning **(SQL, AWS)**
+- 🌱 I’m currently learning **(MYSQL, AWS)**
 
 - 👯 I’m looking to collaborate on **Discord**
 
-- 🤝 I’m looking for help with **Database SQL**
+- 🤝 I’m looking for help with **Database MYSQL**
 
-- 💬 Ask me about **Discord, Js ,Py**
+- 💬 Ask me about **C, C++, Js ,Py**
 
 - 📫 How to reach me **priyanshulandge19@gmail.com**
 
